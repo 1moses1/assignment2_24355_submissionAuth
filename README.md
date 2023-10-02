@@ -1,6 +1,6 @@
 # Student Submission Web Application
 
-This is a simple web application for student submissions, built using Java Servlets, HTML, and CSS. It allows students to upload their passport photos and diplomas, and then sends a confirmation email to the provided email address.
+This is a simple web application for student submissions, built using Java Servlets, Javascript, HTML, and CSS. It allows students to upload their passport photos and diplomas, and then sends a confirmation email to the provided email address.
 
 ## Features
 
@@ -13,6 +13,8 @@ This is a simple web application for student submissions, built using Java Servl
 ## Technologies Used
 
 - Java Servlets
+- Java Filters
+- Javascript 
 - HTML
 - CSS
 - Java Mail API
